@@ -5048,17 +5048,17 @@
     "cube_of_sweets": {
       "name": "Cubicle Desserts",
       "description": "Now in 3 different flavors!",
-      "condition": "Visit Cube of Sweets"
+      "condition": "Đến Cube of Sweets"
     },
     "glitch_hell": {
       "name": "1111111111111111111111111111111111111111111111111111111",
       "description": "jaohfojahfuadhdiahljfhdajklhfjkalhfjlkahdsshjafghahhgfylehragbhagbdhjbfghjabfhjdsbgavhjfvbhajfghjlsadghbkhgkhkhkhkahsihlghfkahsgbfklhasdbfhklasbdfhbadshj",
-      "condition": "Reach Glitch Hell"
+      "condition": "Đến Glitch Hell"
     },
     "alto_2kki": {
       "name": "FM Flying Fish",
       "description": "RadioFishwave",
-      "condition": "Visit Alto"
+      "condition": "Đi tới Alto"
     },
     "flower_lily_path": {
       "name": "Polychrome Morph",
@@ -5091,14 +5091,14 @@
       "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
     },
     "cake_fridge_virtual_city": {
-      "name": "Cake Robber",
-      "description": "Let her eat cake!",
-      "condition": "Take a slice of cake from the fridge of Virtual City's arcade"
+      "name": "Cướp bánh",
+      "description": "Cho cô ấy ăn bánh đi!",
+      "condition": "Lấy một miếng bánh trong tủ lạnh tại khu trò chơi ở Virtual City"
     },
     "umbrella_critter_village": {
-      "name": "A Stray Child",
+      "name": "Đứa trẻ hoang",
       "description": "Yes, it's \"a girl who looks familiar\" but she looks more lost",
-      "condition": "Collide with the red umbrella in Critter Village's Wooded Lakeside section"
+      "condition": "Va vào chiếc ô đỏ ở Wooded Lakeside thuộc Critter Village"
     },
     "picture_virtual_city": {
       "name": "Say Cheese!!",
@@ -5122,27 +5122,27 @@
     },
     "blackjack_manor": {
       "name": "Blackjack 21",
-      "description": "Why don't we sit down and play a game?",
-      "condition": "Visit Blackjack Manor"
+      "description": "Ngồi làm ván game không?",
+      "condition": "Đến Blackjack Manor"
     },
     "tt_rose_church": {
-      "name": "The Holy Egg",
-      "condition": "Obtain the menu type 12 in Rose Church in {TIME} or less in Time Trial Mode"
+      "name": "Trứng tối thượng",
+      "condition": "Sở hữu menu 12 ở Rose Church lúc {TIME} hoặc nhanh hơn trong Time Trial Mode"
     },
     "dragon_paradise": {
       "name": "Cetus",
       "description": "The Serpent that soars the golden skies",
-      "condition": "Approach the dragon in Paradise"
+      "condition": "Tiếp cận con rồng tại Paradise"
     },
     "rose_church_pianist": {
       "name": "Rose Concert",
       "description": "This piano is still working...",
-      "condition": "Watch the pianist play the piano at Rose Church"
+      "condition": "Xem người chơi dương cầm tại Rose Church"
     },
     "yume_paradise": {
       "name": "Dream Heaven",
       "description": "Dreaming is like being in the clouds.",
-      "condition": "Visit the following heaven related worlds: Animal Heaven, Cinder Statue Heaven, Cookie Haven, Cotton Candy Haven, Indigo Pyramid Heaven, Litter Heaven, Paradise, Pink Heaven (sub-area of Humanity World), Whale Heaven (sub-area of Miso Soup Dungeon), and Witch Heaven",
+      "condition": "Đến những thế giới có chủ đề thiên đường: Animal Heaven, Cinder Statue Heaven, Cookie Haven, Cotton Candy Haven, Indigo Pyramid Heaven, Litter Heaven, Paradise, Pink Heaven (sub-area của Humanity World), Whale Heaven (sub-area của Miso Soup Dungeon), và Witch Heaven",
       "checkbox": {
         "animal_heaven": "Animal Heaven",
         "cinder_heaven": "Cinder Statue Heaven",
@@ -5151,8 +5151,8 @@
         "indigo_pyramid_heaven": "Indigo Pyramid Heaven",
         "litter_heaven": "Litter Heaven",
         "paradise": "Paradise",
-        "pink_heaven_humanity_w": "Pink Heaven (sub-area of Humanity World)",
-        "whale_heaven_misoup": "Whale Heaven (sub-area of Miso Soup Dungeon)",
+        "pink_heaven_humanity_w": "Pink Heaven (sub-area của Humanity World)",
+        "whale_heaven_misoup": "Whale Heaven (sub-area của Miso Soup Dungeon)",
         "witch_heaven": "Witch Heaven"
       }
     },
@@ -5214,7 +5214,7 @@
     "graveyard_master": {
       "name": "Called by the Grave",
       "description": "Choose 1 dreamer from your opponent's Graveyard; banish it and, if this happens, until the end of the next turn, its effects are negated.",
-      "condition": "Visit Graveyard World, Dim Graveyard, and Parallel Graveyard",
+      "condition": "Đến Graveyard World, Dim Graveyard, và Parallel Graveyard",
       "checkbox": {
         "graveyard_world": "Graveyard World",
         "dim_graveyard": "Dim Graveyard",
@@ -6509,7 +6509,7 @@
     "tiled_canvas": {
       "name": "Nostalgic Tiles 🎼",
       "description": "About the memories of a beautiful melody and lights that flicker in this world🎵",
-      "condition": "Visit Tiled Canvas"
+      "condition": "Đến Tiled Canvas"
     },
     "crimson_park": {
       "name": "Crimson Park",
@@ -6519,17 +6519,17 @@
     "2kki_menu_100": {
       "name": "The Greatest Escape",
       "description": "Succeed in avoiding the consequences of your own actions",
-      "condition": "Obtain the menu type 100. If you have already unlocked it, return where it can be found in Glitched Digits."
+      "condition": "Sở hữu menu type 100. Nếu bạn đã mở khóa, quay trở lại nơi được tìm thấy ở Glitched Digits."
     },
     "radiant_waters": {
       "name": "Bioluminescent Lantern",
       "description": "These scattered stone lanterns hold the light from the accompanying bioluminescent mushrooms and grass.",
-      "condition": "Visit Radiant Waters"
+      "condition": "Đến Radiant Waters"
     },
     "house_rockbound_beach": {
       "name": "Junk in the Trunk",
       "description": "What's he gonna do with all that!?",
-      "condition": "Visit the house of Rockbound Beach"
+      "condition": "Đi tới căn nhà ở Rockbound Beach"
     },
     "sink_catalog_eyelo": {
       "name": "Eye of Wa",
@@ -6544,101 +6544,101 @@
   },
   "unconscious": {
     "eye_lily_w_lotus_islands": {
-      "name": "Surreally Beautiful",
-      "description": "A divine awakening",
-      "condition": "Find Eye-lily's lair and interact with it at the White Lotus Islands"
+      "name": "Đẹp lạ thường",
+      "description": "Sự thức tỉnh thánh thần.",
+      "condition": "Tới nơi trú ẩn của Eye-lily và tương tác với nó ở White Lotus Islands"
     },
     "box_office_end": {
-      "name": "The Sokoban Technique",
-      "description": "One minute longer, and you'd be stuck like the rest of them.",
-      "condition": "Beat the Box Office's puzzle"
+      "name": "Kỹ thuật Sokoban",
+      "description": "Một phút nữa, và bạn sẽ kẹt bị như tất cả bọn chúng.",
+      "condition": "Phá đảo câu đố ở Box Office"
     },
     "music_lvg_room_doodles": {
-      "name": "Lively Room",
-      "description": "Cozy and colorful",
-      "condition": "Make the creature play music in the living room of Doodles"
+      "name": "Căn phòng sống động",
+      "description": "Thư thái và tràn ngập màu sắc",
+      "condition": "Làm cho sinh vật trong phòng khách chơi nhạc ở Doodles"
     },
     "boombox_burning_building": {
-      "name": "Flaming Beats",
-      "description": "Don't get burned!",
-      "condition": "Activate the boombox in Burning Building's alcove"
+      "name": "Giai điệu cháy bỏng",
+      "description": "Đừng để bị thiêu!",
+      "condition": "Kích hoạt máy nghe nhạc tại Burning Building"
     },
     "blueprint_world_full": {
-      "name": "Dream Architect",
-      "description": "Mapping out my spiritual world",
-      "condition": "Visit all sections of Blueprint World"
+      "name": "Thiết kế sư giấc mơ",
+      "description": "Thiết kế thế giới tinh thần của tôi",
+      "condition": "Đi qua tất cả các khu vực trong Blueprint World"
     },
     "heart_forget_me_not": {
-      "name": "Remember My Beat",
-      "description": "May my feelings live on within your memory",
-      "condition": "Interact with the girl's heart in Forget-Me-Not"
+      "name": "Hãy nhớ tới nhịp đập của tôi",
+      "description": "Mong những cảm xúc của tôi sống mãi trong kí ức bạn",
+      "condition": "Tiếp xúc với trái tim của cô gái trong Forget-Me-Not"
     },
     "internal_vista": {
       "name": "Outside-In",
-      "condition": "Visit the Internal Vista"
+      "condition": "Đi tới Internal Vista"
     },
     "wisteria_grove_bridge": {
-      "name": "Wisteria Bridge",
-      "condition": "See the temple from afar in Wisteria Grove"
+      "name": "Cầu đằng la",
+      "condition": "Nhìn thấy ngôi đền ở phía xa tại Wisteria Grove"
     },
     "kmeleon_cst_themes": {
       "name": "Mimecry",
-      "description": "A surreal experience",
-      "condition": "See all the Chameleon Constructions themes"
+      "description": "Trải nghiệm mộng tưởng",
+      "condition": "Chứng kiến tất cả các màu ở Chameleon Constructions"
     },
     "planetarium_garden": {
-      "name": "Snow White Observatory",
-      "description": "A white garden accompanied by the stars.",
-      "condition": "Visit Planetarium Garden"
+      "name": " Đài thiên văn tuyết trắng",
+      "description": "Một khu vườn trắng xóa bao bọc bởi những vì sao.",
+      "condition": "Đi tới Planetarium Garden"
     },
     "mr_pivoine_train_station": {
       "name": "Ticket to Ride",
       "description": "All aboard!",
-      "condition": "Buy a ticket from Monsieur Pivoine in Train Station"
+      "condition": "Mua vé từ Monsieur Pivoine ở Train Station"
     },
     "people_palace_dungeon": {
-      "name": "Framed!",
-      "description": "Smile for your photo!",
-      "condition": "Get caught by the guards in People Palace"
+      "name": "Đóng khung!",
+      "description": "Cười lên cho tấm ảnh của bạn nào!",
+      "condition": "Bị bắt bởi bảo vệ ở People Palace"
     },
     "tiger_resort": {
-      "name": "Tiger Girl",
-      "description": "It's lunch time, meow!",
-      "condition": "Interact with the tiger in Resort"
+      "name": "Hổ cái",
+      "description": "Đến giờ ăn trưa rồi, meow!",
+      "condition": "Tương tác với con hổ Resort"
     },
     "artist_chan_soapy_baths": {
-      "name": "Soapy Mural",
-      "description": "Hopefully the soap doesn't wash this away!",
-      "condition": "Find Artist-chan painting the mural in Soapy Baths"
+      "name": "Nghệ thuật xà phòng",
+      "description": "Mong sao chỗ xà phòng này không bị xóa đi!",
+      "condition": "Tìm Artist-chan đang vẽ tuyệt tác ở Soapy Baths"
     },
     "chelan_cheesecake_cmb": {
-      "name": "Little guy!",
-      "description": "So very little...",
-      "condition": "Interact with Chelan in the room of Cheesecake Chambers while using the effect of the Rodentia eidolon"
+      "name": "Đồng chí bé nhỏ này!",
+      "description": "Bé quá đi...",
+      "condition": "Tương tác với Chelan trong căn phòng ở Cheesecake Chambers khi đang trong hiệu ứng của Rodentia eidolon"
     },
     "psy_brt_warehouse": {
-      "name": "Psychedelic Fish",
-      "condition": "Trigger the Psychedelic Warehouse event in Brutalist Warehouse"
+      "name": "Cá Mộng Tưởng",
+      "condition": "Kích hoạt sự kiện Psychedelic Warehouse ở Brutalist Warehouse"
     },
     "kakkoii_lumen_resort": {
-      "name": "Hmm... I Like That!",
-      "description": "Just to earn your smile, so worth it!",
-      "condition": "Use the Lumen eidolon to make Kakkoii smile in Resort"
+      "name": "Hmm... Tôi thích đó!",
+      "description": "Chỉ để nhận được nụ cười của bạn, thực sự đáng giá!",
+      "condition": "Dùng eidola Lumen để khiến cho Kakkoii mỉm cười ở Resort"
     },
     "dance_mural_passage": {
-      "name": "Kalimba Dance",
-      "description": "How long can she dance?",
-      "condition": "Make Tusuq Warmi dance in Mural Passage"
+      "name": "Điệu nhảy Kalimba",
+      "description": "Cô ấy có thể nhảy được trong bao lâu?",
+      "condition": "Làm cho Tusuq Warmi nhảy ở Mural Passage"
     },
     "moon_harsh_light_road": {
-      "name": "Moondrop",
+      "name": "Giọt trăng",
       "description": "Moon river, wider than a mile",
-      "condition": "View the event with the dripping moon in Harsh Light Road"
+      "condition": "Chứng kiến sự kiện Mặt Trăng lộ thiên tại Harsh Light Road"
     },
     "star_pillar_world": {
-      "name": "Glimmering Goldfish",
-      "description": "Swimming through the starry skies.",
-      "condition": "Visit Star Pillar World"
+      "name": "Cá vàng phấp phới ánh sáng",
+      "description": "Bơi qua bầu trời đầy sao.",
+      "condition": "Tới Star Pillar World"
     },
     "constellation_dusk_world": {
       "name": "Celestial Felines",
