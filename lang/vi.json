@@ -5058,7 +5058,7 @@
     "alto_2kki": {
       "name": "FM Flying Fish",
       "description": "RadioFishwave",
-      "condition": "Đi tới Alto"
+      "condition": "Đến Alto"
     },
     "flower_lily_path": {
       "name": "Polychrome Morph",
@@ -5096,7 +5096,7 @@
       "condition": "Lấy một miếng bánh trong tủ lạnh tại khu trò chơi ở Virtual City"
     },
     "umbrella_critter_village": {
-      "name": "Đứa trẻ hoang",
+      "name": "Trẻ lang thang",
       "description": "Yes, it's \"a girl who looks familiar\" but she looks more lost",
       "condition": "Va vào chiếc ô đỏ ở Wooded Lakeside thuộc Critter Village"
     },
@@ -5126,8 +5126,8 @@
       "condition": "Đến Blackjack Manor"
     },
     "tt_rose_church": {
-      "name": "Trứng tối thượng",
-      "condition": "Sở hữu menu 12 ở Rose Church lúc {TIME} hoặc nhanh hơn trong Time Trial Mode"
+      "name": "Quả trứng tối thượng",
+      "condition": "Nhận phông nền số 12 ở Rose Church trong {TIME} hoặc nhanh hơn trong chế độ Thử thách Hẹn giờ"
     },
     "dragon_paradise": {
       "name": "Cetus",
@@ -5212,8 +5212,8 @@
       "condition": "Interact with one of the chasers in City of Revival's tower while using the Railroad Crossing effect"
     },
     "graveyard_master": {
-      "name": "Called by the Grave",
-      "description": "Choose 1 dreamer from your opponent's Graveyard; banish it and, if this happens, until the end of the next turn, its effects are negated.",
+      "name": "Tiếng gọi của nấm mồ", 
+      "description": "Chọn một người mơ ngủ từ Nghĩa địa của đối phương; trục xuất đối tượng và nếu thành công, đối tượng bị vô hiệu hóa đến cuối lượt tiếp theo.",
       "condition": "Đến Graveyard World, Dim Graveyard, và Parallel Graveyard",
       "checkbox": {
         "graveyard_world": "Graveyard World",
@@ -6519,7 +6519,7 @@
     "2kki_menu_100": {
       "name": "The Greatest Escape",
       "description": "Succeed in avoiding the consequences of your own actions",
-      "condition": "Sở hữu menu type 100. Nếu bạn đã mở khóa, quay trở lại nơi được tìm thấy ở Glitched Digits."
+      "condition": "Nhận phông nền 100. Nếu bạn đã mở khóa, quay trở lại nơi bạn tìm thấy trong Glitched Digits."
     },
     "radiant_waters": {
       "name": "Bioluminescent Lantern",
@@ -6529,7 +6529,7 @@
     "house_rockbound_beach": {
       "name": "Junk in the Trunk",
       "description": "What's he gonna do with all that!?",
-      "condition": "Đi tới căn nhà ở Rockbound Beach"
+      "condition": "Đến căn nhà ở Rockbound Beach"
     },
     "sink_catalog_eyelo": {
       "name": "Eye of Wa",
@@ -6546,45 +6546,45 @@
     "eye_lily_w_lotus_islands": {
       "name": "Đẹp lạ thường",
       "description": "Sự thức tỉnh thánh thần.",
-      "condition": "Tới nơi trú ẩn của Eye-lily và tương tác với nó ở White Lotus Islands"
+      "condition": "Tìm nơi trú ẩn của Eye-lily và tương tác với nó ở White Lotus Islands"
     },
     "box_office_end": {
       "name": "Kỹ thuật Sokoban",
-      "description": "Một phút nữa, và bạn sẽ kẹt bị như tất cả bọn chúng.",
+      "description": "Một phút nữa, và bạn sẽ bị kẹt lại như tất cả bọn chúng.",
       "condition": "Phá đảo câu đố ở Box Office"
     },
     "music_lvg_room_doodles": {
       "name": "Căn phòng sống động",
-      "description": "Thư thái và tràn ngập màu sắc",
+      "description": "Ấm cúng và tràn ngập màu sắc",
       "condition": "Làm cho sinh vật trong phòng khách chơi nhạc ở Doodles"
     },
     "boombox_burning_building": {
       "name": "Giai điệu cháy bỏng",
-      "description": "Đừng để bị thiêu!",
-      "condition": "Kích hoạt máy nghe nhạc tại Burning Building"
+      "description": "Đừng để bị thiêu đấy!",
+      "condition": "Kích hoạt máy nghe nhạc trong góc tường ở Burning Building"
     },
     "blueprint_world_full": {
-      "name": "Thiết kế sư giấc mơ",
-      "description": "Thiết kế thế giới tinh thần của tôi",
+      "name": "Kiến trúc sư giấc mơ",
+      "description": "Thiết kế thế giới tâm linh của tôi",
       "condition": "Đi qua tất cả các khu vực trong Blueprint World"
     },
     "heart_forget_me_not": {
       "name": "Hãy nhớ tới nhịp đập của tôi",
-      "description": "Mong những cảm xúc của tôi sống mãi trong kí ức bạn",
-      "condition": "Tiếp xúc với trái tim của cô gái trong Forget-Me-Not"
+      "description": "Mong những cảm xúc của tôi sống mãi trong kí ức người",
+      "condition": "Tương tác với trái tim của cô gái trong Forget-Me-Not"
     },
     "internal_vista": {
       "name": "Outside-In",
       "condition": "Đi tới Internal Vista"
     },
     "wisteria_grove_bridge": {
-      "name": "Cầu đằng la",
+      "name": "Cầu tử đằng",
       "condition": "Nhìn thấy ngôi đền ở phía xa tại Wisteria Grove"
     },
     "kmeleon_cst_themes": {
       "name": "Mimecry",
-      "description": "Trải nghiệm mộng tưởng",
-      "condition": "Chứng kiến tất cả các màu ở Chameleon Constructions"
+      "description": "Một trải nghiệm siêu thực",
+      "condition": "Nhìn thấy tất cả các tông màu của Chameleon Constructions"
     },
     "planetarium_garden": {
       "name": " Đài thiên văn tuyết trắng",
@@ -6599,31 +6599,31 @@
     "people_palace_dungeon": {
       "name": "Đóng khung!",
       "description": "Cười lên cho tấm ảnh của bạn nào!",
-      "condition": "Bị bắt bởi bảo vệ ở People Palace"
+      "condition": "Bị bảo vệ bắt ở People Palace"
     },
     "tiger_resort": {
       "name": "Hổ cái",
       "description": "Đến giờ ăn trưa rồi, meow!",
-      "condition": "Tương tác với con hổ Resort"
+      "condition": "Tương tác với con hổ trong Resort"
     },
     "artist_chan_soapy_baths": {
-      "name": "Nghệ thuật xà phòng",
-      "description": "Mong sao chỗ xà phòng này không bị xóa đi!",
-      "condition": "Tìm Artist-chan đang vẽ tuyệt tác ở Soapy Baths"
+      "name": "Bích họa xà phòng",
+      "description": "Mong sao chỗ xà phòng này không bị trôi mất!",
+      "condition": "Tìm Artist-chan vẽ bích họa ở Soapy Baths"
     },
     "chelan_cheesecake_cmb": {
       "name": "Đồng chí bé nhỏ này!",
       "description": "Bé quá đi...",
-      "condition": "Tương tác với Chelan trong căn phòng ở Cheesecake Chambers khi đang trong hiệu ứng của Rodentia eidolon"
+      "condition": "Tương tác với Chelan trong căn phòng ở Cheesecake Chambers khi đang dùng eidolon Rodentia"
     },
     "psy_brt_warehouse": {
-      "name": "Cá Mộng Tưởng",
+      "name": "Cá thức thần",
       "condition": "Kích hoạt sự kiện Psychedelic Warehouse ở Brutalist Warehouse"
     },
     "kakkoii_lumen_resort": {
       "name": "Hmm... Tôi thích đó!",
-      "description": "Chỉ để nhận được nụ cười của bạn, thực sự đáng giá!",
-      "condition": "Dùng eidola Lumen để khiến cho Kakkoii mỉm cười ở Resort"
+      "description": "Chỉ để thấy nụ cười của bạn, không uổng công tí nào!",
+      "condition": "Dùng eidolon Lumen để khiến Kakkoii mỉm cười ở Resort"
     },
     "dance_mural_passage": {
       "name": "Điệu nhảy Kalimba",
@@ -6633,12 +6633,12 @@
     "moon_harsh_light_road": {
       "name": "Giọt trăng",
       "description": "Moon river, wider than a mile",
-      "condition": "Chứng kiến sự kiện Mặt Trăng lộ thiên tại Harsh Light Road"
+      "condition": "Xem sự kiện Mặt Trăng lộ thiên tại Harsh Light Road"
     },
     "star_pillar_world": {
-      "name": "Cá vàng phấp phới ánh sáng",
+      "name": "Cá vàng lấp lánh",
       "description": "Bơi qua bầu trời đầy sao.",
-      "condition": "Tới Star Pillar World"
+      "condition": "Đến Star Pillar World"
     },
     "constellation_dusk_world": {
       "name": "Celestial Felines",
@@ -6648,7 +6648,7 @@
     "pizza_parlor_plaza": {
       "name": "It's Pizza Time!",
       "description": "In crust, we trust.",
-      "condition": "Visit Pizza Parlor Plaza"
+      "condition": "Đến Pizza Parlor Plaza"
     },
     "zorya_windswept_expanse": {
       "name": "Between the Wind and Stars",
@@ -6693,7 +6693,7 @@
     "neon_centipede_caverns": {
       "name": "Leggin' It",
       "description": "It's gotta be a hundred feet long!",
-      "condition": "Visit Neon Centipede Caverns"
+      "condition": "Đên Neon Centipede Caverns"
     },
     "stickman_llpt_leaflitter": {
       "name": "Sup.",
@@ -6711,7 +6711,7 @@
     "lake_ruminating_meadows": {
       "name": "Ruminating Lake",
       "description": "There's no use ruminating, not when you're here. Live for the day.",
-      "condition": "Visit the lake of Ruminating Meadows"
+      "condition": "Đến hồ nước ở Ruminating Meadows"
     },
     "board_surreal_zoo": {
       "name": "Fruit Cats",
@@ -6719,9 +6719,9 @@
       "condition": "Stand behind the fruit face board in Surreal Zoo with the Youth eidolon"
     },
     "swan_crimson_lake_lumen": {
-      "name": "Swan Lake",
+      "name": "Hồ thiên nga",
       "description": "Where is your head?",
-      "condition": "Equip the Lumen eidolon in the swan lake of Crimson Lake"
+      "condition": "Dùng eidolon Lumen ở hồ thiên nga của Crimson Lake"
     },
     "mr_duck_mossy_tunnels": {
       "name": "Weird Squeak Sound",
@@ -6828,7 +6828,7 @@
     "peaceful_decay": {
       "name": "Mycelium",
       "description": "At last.",
-      "condition": "Visit Peaceful Decay"
+      "condition": "Đến Peaceful Decay"
     },
     "dog_terracities": {
       "name": "My Best Pet",
@@ -6838,7 +6838,7 @@
     "dust_bunny_world": {
       "name": "Dust Bunnies!!",
       "description": "They're so cute, it almost makes you ignore the a... a... ahhCHOO!... Allergies.",
-      "condition": "Visit Dust Bunny World"
+      "condition": "Đến Dust Bunny World"
     },
     "girl_orchid_haven": {
       "name": "Sleeping Girl",
@@ -6847,7 +6847,7 @@
     },
     "yellow_bile_tenements": {
       "name": "Yellow Bile, Yellow Sun",
-      "condition": "Visit Yellow Bile Tenements"
+      "condition": "Đến Yellow Bile Tenements"
     },
     "drink_scarlet_river": {
       "name": "Bleeding Rose",
@@ -6872,12 +6872,12 @@
     "harsh_light_road": {
       "name": "Everlasting Light",
       "description": "My moon and me",
-      "condition": "Enter Harsh Light Road"
+      "condition": "Vào Harsh Light Road"
     },
     "neon_frogs": {
       "name": "Dance of the Neon Frogs",
       "description": "For all of eternity...",
-      "condition": "Visit Neon Frogs"
+      "condition": "Đến Neon Frogs"
     },
     "bench_candy_lagoon": {
       "name": "Scarily Sweet",
@@ -7019,7 +7019,7 @@
     "tatami_galaxy": {
       "name": "Constellation of Lanterns",
       "description": "Glowing memories.",
-      "condition": "Visit Tatami Galaxy"
+      "condition": "Đến Tatami Galaxy"
     },
     "graffiti_ruminating_mdws": {
       "name": "Her Eyes",
@@ -7049,7 +7049,7 @@
     "glass_cathedral": {
       "name": "Quiet Reflections",
       "description": "A silent exchange between the glass and the self. Only the echoes of thoughts can be heard. Sit a while, and listen.",
-      "condition": "Visit Glass Cathedral"
+      "condition": "Đến Glass Cathedral"
     },
     "clock_loading_zone": {
       "name": "Endless Load",
@@ -7090,7 +7090,7 @@
     "jellyfish_world": {
       "name": "Luminescent Jellyfish",
       "description": "Pristine guardians of the souls within the depths",
-      "condition": "Visit Jellyfish World"
+      "condition": "Đến Jellyfish World"
     },
     "fish_megalith_lake": {
       "name": "These Boots Are Made for Walkin'",
@@ -7104,12 +7104,12 @@
     },
     "lush_hilltop": {
       "name": "Lush Hilltop",
-      "condition": "Visit Lush Hilltop"
+      "condition": "Đến Lush Hilltop"
     },
     "rainbow_tears": {
       "name": "Crying Rainbow",
       "description": "Rainbows are beautiful, rainbows are... tears?",
-      "condition": "Reach Rainbow Tears"
+      "condition": "Đến Rainbow Tears"
     },
     "climate_eidolon": {
       "name": "Weather Report",
@@ -7143,7 +7143,7 @@
     "neon_star_hall": {
       "name": "Neon Twinkle",
       "description": "Colorful constellations inside hexagons.",
-      "condition": "Visit Neon Star Hall"
+      "condition": "Đến Neon Star Hall"
     },
     "uncanny_world_event": {
       "name": "Collective Tree",
@@ -7158,7 +7158,7 @@
     "roof_tub": {
       "name": "Sunset Waves",
       "description": "The colors of the sky reflected in the waters, and the water overflows off the roof.",
-      "condition": "Visit Roof Tub"
+      "condition": "Đến Roof Tub"
     },
     "crystal_access_main": {
       "name": "Crystalline Void",
@@ -7168,7 +7168,7 @@
     "abyssal_bleu": {
       "name": "Abyssal Giant",
       "description": "Even in the depths, beauty can still be found",
-      "condition": "Visit Abyssal Bleu"
+      "condition": "Đến Abyssal Bleu"
     },
     "urbia_biggest_hit": {
       "name": "Should have looked up when crossing the road...",
@@ -7198,7 +7198,7 @@
     "saturated_school": {
       "name": "Chromatic School",
       "description": "It was just an hallucination",
-      "condition": "Visit the Saturated School"
+      "condition": "Đến Saturated School"
     },
     "big_lotus_white_lotus_islands": {
       "name": "Lotus Mother",
@@ -7208,7 +7208,7 @@
     "monochrome_art_studio": {
       "name": "Imagination",
       "description": "The colors are woven from the mind itself.",
-      "condition": "Visit Monochrome Art Studio"
+      "condition": "Đến Monochrome Art Studio"
     },
     "cpu_bloodsoaked_office": {
       "name": "Bloodied Vision",
@@ -7218,7 +7218,7 @@
     "glass_shard_path": {
       "name": "Colorwashed Glass",
       "description": "For lovers of rain and glass",
-      "condition": "Visit Glass Shards Path"
+      "condition": "Đến Glass Shards Path"
     },
     "outside_primeval_edifice": {
       "name": "Ancient Sky Garden",
@@ -7257,7 +7257,7 @@
     "sunset_woods": {
       "name": "Puddles of Sunset",
       "description": "Look down, there's the sky",
-      "condition": "Visit Sunset Woods"
+      "condition": "Đến Sunset Woods"
     },
     "cat_mask_outer_hospital": {
       "name": "Scarred Self-image",
@@ -7297,7 +7297,7 @@
     "sandbox_unconscious": {
       "name": "Wildflower Haven",
       "description": "A haven can exist anywhere if you allow it to be one",
-      "condition": "Visit Sandbox"
+      "condition": "Đến Sandbox"
     },
     "drain_girl_wisteria_grove": {
       "name": "Sewer Lass",
@@ -7352,7 +7352,7 @@
     "basalt_fields": {
       "name": "Mummy, I'm Scared",
       "description": "Bandaged spirits adorn the sky.",
-      "condition": "Visit Basalt Fields"
+      "condition": "Đến Basalt Fields"
     },
     "neon_light_exhibition": {
       "name": "Neon Party",
@@ -7377,12 +7377,12 @@
     "unconscious_toy_world": {
       "name": "Nostophobia",
       "description": "Childhood memories caked in soot.",
-      "condition": "Visit Toy World"
+      "condition": "Đến Toy World"
     },
     "joy_district": {
       "name": "=)",
       "description": "The local cuisine here is just exquisite. Have you tasted the leather shoes yet? =)",
-      "condition": "Visit Joy District"
+      "condition": "Đến Joy District"
     },
     "picnic_sylvan_trails": {
       "name": "Amanitaceae",
@@ -7402,7 +7402,7 @@
     "achromatic_positive_hellscape": {
       "name": "White Happy",
       "description": "IN THE END NONE OF THIS IS REAL",
-      "condition": "Visit Achromatic Positive Hellscape"
+      "condition": "Đến Achromatic Positive Hellscape"
     },
     "cheshi_monster_manuscripts": {
       "name": "A Strange Guide",
@@ -7432,7 +7432,7 @@
     "zen_garden": {
       "name": "Gardens of Sand",
       "description": "A delicate and serene garden of rocks and white sand",
-      "condition": "Visit Zen Garden"
+      "condition": "Đến Zen Garden"
     },
     "fox_fantasy_forest": {
       "name": "The Art of Taming",
