@@ -5054,36 +5054,36 @@
     "cube_of_sweets": {
       "name": "Cubicle Desserts",
       "description": "Now in 3 different flavors!",
-      "condition": "Đến thăm Cube of Sweets"
+      "condition": "Đến Cube of Sweets"
     },
     "glitch_hell": {
       "name": "1111111111111111111111111111111111111111111111111111111",
       "description": "jaohfojahfuadhdiahljfhdajklhfjkalhfjlkahdsshjafghahhgfylehragbhagbdhjbfghjabfhjdsbgavhjfvbhajfghjlsadghbkhgkhkhkhkahsihlghfkahsgbfklhasdbfhklasbdfhbadshj",
-      "condition": "Tới Glitch Hell"
+      "condition": "Vào Glitch Hell"
     },
     "alto_2kki": {
       "name": "FM Flying Fish",
       "description": "RadioFishwave",
-      "condition": "Tới Alto"
+      "condition": "Đến Alto"
     },
     "flower_lily_path": {
       "name": "Polychrome Morph",
       "description": "The soft and peaceful reality of the body.",
-      "condition": "Làm cho bông hoa ở White Lily Path A thuộc Glitched Butterfly Sector phản ứng với Child, Tissue, Teru Teru Bōzu, Grave và Rainbow effects, và sử dụng hiệu ứng của Fairy, Glasses, Eyeball Bomb, Invisible, Cake, Polygon, Railroad Crossing và Dice",
+      "condition": "Làm cho bông hoa ở White Lily Path A thuộc Glitched Butterfly Sector phản ứng với các hiệu ứng Trẻ em, Khăn giấy, Búp bê thời tiết, Mộ và Cầu vồng, và sử dụng hiệu ứng Tiểu tiên, Mắt kính, Bom cầu mắt, Tàng hình, Bánh ngọt, Đa giác, Tín hiệu đường sắt và Xúc xắc",
       "checkbox": {
-        "flower_lily_path_child": "Child",
-        "flower_lily_path_tissue": "Tissue",
-        "flower_lily_path_teru": "Teru Teru Bōzu",
-        "flower_lily_path_grave": "Grave",
-        "flower_lily_path_rainbow": "Rainbow",
-        "flower_lily_path_fairy": "Fairy",
-        "flower_lily_path_glasses": "Glasses",
-        "flower_lily_path_eye_bomb": "Eyeball Bomb",
-        "flower_lily_path_invisible": "Invisible",
-        "flower_lily_path_cake": "Cake",
-        "flower_lily_path_polygon": "Polygon",
-        "flower_lily_path_crossing": "Railroad Crossing",
-        "flower_lily_path_dice": "Dice"
+        "flower_lily_path_child": "Trẻ em",
+        "flower_lily_path_tissue": "Khăn giấy",
+        "flower_lily_path_teru": "Búp bê thời tiết",
+        "flower_lily_path_grave": "Mộ",
+        "flower_lily_path_rainbow": "Cầu vồng",
+        "flower_lily_path_fairy": "Tiểu tiên",
+        "flower_lily_path_glasses": "Mắt kính",
+        "flower_lily_path_eye_bomb": "Bom cầu mắt",
+        "flower_lily_path_invisible": "Tàng hình",
+        "flower_lily_path_cake": "Bánh ngọt",
+        "flower_lily_path_polygon": "Đa giác",
+        "flower_lily_path_crossing": "Tín hiệu đường sắt",
+        "flower_lily_path_dice": "Xúc xác"
       }
     },
     "bracken_plains_rave": {
@@ -5093,8 +5093,8 @@
     },
     "monster_jaw_cake": {
       "name": "Lonely Cake Girl",
-      "description": "Chắc hẳn cô ấy phải cảm thấy cô đơn.",
-      "condition": "Sử dụng hiệu ứng Cake ở Monster's Jaw và xem cảnh ở đó"
+      "description": "Cô ấy đúng là có vẻ cô đơn thật.",
+      "condition": "Sử dụng hiệu ứng Bánh ngọt ở Monster's Jaw và xem cảnh ở đó"
     },
     "cake_fridge_virtual_city": {
       "name": "Kẻ Trộm Bánh",
@@ -5114,26 +5114,26 @@
     "arcade_virtual_city": {
       "name": "Bunny Girl Paradise",
       "description": "Trò chơi này thực sự gây nghiện...",
-      "condition": "Đến thăm khu trò chơi ở Virtual City"
+      "condition": "Đến khu trò chơi ở Virtual City"
     },
     "workshop_cipher_kbd": {
       "name": "Keyboard Maintenance Team",
       "description": "Especially the arrows need more repair",
-      "condition": "Đến thăm khu xưởng ở Cipher Keyboard"
+      "condition": "Đến khu xưởng ở Cipher Keyboard"
     },
     "mistaken_call_parking_grg": {
       "name": "Fraudulent Call",
       "description": "I think it's a pyramid scheme involving red lampposts",
-      "condition": "Tới Mistaken Call Room ở Parking Garage"
+      "condition": "Đến Mistaken Call Room ở Parking Garage"
     },
     "blackjack_manor": {
       "name": "Blackjack 21",
       "description": "Why don't we sit down and play a game?",
-      "condition": "Đến thăm Blackjack Manor"
+      "condition": "Đến Blackjack Manor"
     },
     "tt_rose_church": {
-      "name": "Trứng tối thượng",
-      "condition": "Thu thập kiểu menu 12 ở Rose Church trong {TIME} hoặc nhanh hơn trong Time Trial Mode"
+      "name": "Quả trứng tối thượng",
+      "condition": "Nhận phông nền 12 ở Rose Church trong {TIME} hoặc nhanh hơn trong chế độ Thử thách hẹn giờ"
     },
     "dragon_paradise": {
       "name": "Cetus",
