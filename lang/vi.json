@@ -5054,22 +5054,22 @@
     "cube_of_sweets": {
       "name": "Cubicle Desserts",
       "description": "Now in 3 different flavors!",
-      "condition": "Visit Cube of Sweets"
+      "condition": "Đến thăm Cube of Sweets"
     },
     "glitch_hell": {
       "name": "1111111111111111111111111111111111111111111111111111111",
       "description": "jaohfojahfuadhdiahljfhdajklhfjkalhfjlkahdsshjafghahhgfylehragbhagbdhjbfghjabfhjdsbgavhjfvbhajfghjlsadghbkhgkhkhkhkahsihlghfkahsgbfklhasdbfhklasbdfhbadshj",
-      "condition": "Reach Glitch Hell"
+      "condition": "Tới Glitch Hell"
     },
     "alto_2kki": {
       "name": "FM Flying Fish",
       "description": "RadioFishwave",
-      "condition": "Visit Alto"
+      "condition": "Tới Alto"
     },
     "flower_lily_path": {
       "name": "Polychrome Morph",
       "description": "The soft and peaceful reality of the body.",
-      "condition": "Make the flower in the White Lily Path A of the Glitched Butterfly Sector react to the Child, Tissue, Teru Teru Bōzu, Grave and Rainbow effects, and to the use of the Fairy, Glasses, Eyeball Bomb, Invisible, Cake, Polygon, Railroad Crossing and Dice effects",
+      "condition": "Làm cho bông hoa ở White Lily Path A thuộc Glitched Butterfly Sector phản ứng với Child, Tissue, Teru Teru Bōzu, Grave và Rainbow effects, và sử dụng hiệu ứng của Fairy, Glasses, Eyeball Bomb, Invisible, Cake, Polygon, Railroad Crossing và Dice",
       "checkbox": {
         "flower_lily_path_child": "Child",
         "flower_lily_path_tissue": "Tissue",
@@ -5089,61 +5089,61 @@
     "bracken_plains_rave": {
       "name": "Bracken Dance",
       "description": "Gotta get green guys groovin'",
-      "condition": "See the Rave event in the Bracken Plains"
+      "condition": "Kích hoạt sự kiện Rave ở Bracken Plains"
     },
     "monster_jaw_cake": {
       "name": "Lonely Cake Girl",
-      "description": "She does sure feel lonely.",
-      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
+      "description": "Chắc hẳn cô ấy phải cảm thấy cô đơn.",
+      "condition": "Sử dụng hiệu ứng Cake ở Monster's Jaw và xem cảnh ở đó"
     },
     "cake_fridge_virtual_city": {
-      "name": "Cake Robber",
+      "name": "Kẻ Trộm Bánh",
       "description": "Let her eat cake!",
-      "condition": "Take a slice of cake from the fridge of Virtual City's arcade"
+      "condition": "Lấy một cái bánh trong tủ lạnh tại khu trò chơi ở Virtual City"
     },
     "umbrella_critter_village": {
       "name": "A Stray Child",
       "description": "Yes, it's \"a girl who looks familiar\" but she looks more lost",
-      "condition": "Collide with the red umbrella in Critter Village's Wooded Lakeside section"
+      "condition": "Va chạm với cái ô đỏ ở khu vực Wooded Lakeside thuộc Critter Village"
     },
     "picture_virtual_city": {
       "name": "Say Cheese!!",
       "description": "Fantastic! Cooler! Peace!",
-      "condition": "Use the photobooth and receive your picture in the Virtual City's arcade"
+      "condition": "Sử dụng bốt chụp ảnh và nhận bức ảnh tại khu trò chơi ở Virtual City"
     },
     "arcade_virtual_city": {
       "name": "Bunny Girl Paradise",
-      "description": "This game is addicting...",
-      "condition": "Visit the arcade in Virtual City"
+      "description": "Trò chơi này thực sự gây nghiện...",
+      "condition": "Đến thăm khu trò chơi ở Virtual City"
     },
     "workshop_cipher_kbd": {
       "name": "Keyboard Maintenance Team",
       "description": "Especially the arrows need more repair",
-      "condition": "Visit the workshop in Cipher Keyboard"
+      "condition": "Đến thăm khu xưởng ở Cipher Keyboard"
     },
     "mistaken_call_parking_grg": {
       "name": "Fraudulent Call",
       "description": "I think it's a pyramid scheme involving red lampposts",
-      "condition": "Visit the Mistaken Call Room in Parking Garage"
+      "condition": "Tới Mistaken Call Room ở Parking Garage"
     },
     "blackjack_manor": {
       "name": "Blackjack 21",
       "description": "Why don't we sit down and play a game?",
-      "condition": "Visit Blackjack Manor"
+      "condition": "Đến thăm Blackjack Manor"
     },
     "tt_rose_church": {
-      "name": "The Holy Egg",
-      "condition": "Obtain the menu type 12 in Rose Church in {TIME} or less in Time Trial Mode"
+      "name": "Trứng tối thượng",
+      "condition": "Thu thập kiểu menu 12 ở Rose Church trong {TIME} hoặc nhanh hơn trong Time Trial Mode"
     },
     "dragon_paradise": {
       "name": "Cetus",
       "description": "The Serpent that soars the golden skies",
-      "condition": "Approach the dragon in Paradise"
+      "condition": "Tiếp cận con rồng ở Paradise"
     },
     "rose_church_pianist": {
       "name": "Rose Concert",
       "description": "This piano is still working...",
-      "condition": "Watch the pianist play the piano at Rose Church"
+      "condition": "Chứng kiến người chơi dương cầm ở Rose Church"
     },
     "yume_paradise": {
       "name": "Dream Heaven",
@@ -5431,9 +5431,9 @@
       }
     },
     "tentacle_lamplit_stones": {
-      "name": "Always Near You",
-      "description": "Something familiar that always watches you.",
-      "condition": "Trigger the event that makes the Sierpinski Maze tentacle appears in Lamplit Stones"
+      "name": "Luôn luôn bên bạn",
+      "description": "Thứ gì đó thân thuộc luôn theo dõi bạn.",
+      "condition": "Kích hoạt sự kiện làm cho xúc tu ở Sierpinski Maze xuất hiện tại Lamplit Stones"
     },
     "kite_adabana_gardens": {
       "name": "Lost Kite",
