@@ -532,6 +532,11 @@
         "blonde_hair_effect": "Blonde",
         "poo_hair_effect": "Poo Hair"
       }
+    },
+    "big_red_sewers": {
+      "name": "Devilish Glutton",
+      "description": "Waiter, more children please!",
+      "condition": "Get eaten by Big Red in the Sewers"
     }
   },
   "2kki": {
@@ -1444,7 +1449,7 @@
     "phone": {
       "name": "MVP",
       "description": "Most Valued Phone",
-      "condition": "Dùng lối tắt điện thoại đến Urotsuki's Dream Apartments từ 8 địa điểm: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone",
+      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Sugar Road, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
       "checkbox": {
         "phone_aquatic_cube_city": "Aquatic Cube City",
         "phone_fossil_lake": "Fossil Lake",
@@ -1453,7 +1458,12 @@
         "phone_water_reclamation_facility": "Water Reclamation Facility",
         "phone_dark_museum": "Dark Museum",
         "phone_dark_warehouse": "Dark Warehouse",
-        "phone_parking_zone": "Parking Zone"
+        "phone_parking_zone": "Parking Zone",
+        "phone_eyeberry_orchard": "Eyeberry Orchard",
+        "phone_legacy_nexus": "Legacy Nexus",
+        "lemonade_office_phone": "Lemonade Edifice",
+        "phone_originator_garden": "Originator Garden",
+        "phone_rgb_spectral_passage": "RGB Spectral Passage"
       }
     },
     "butterfly_passage": {
@@ -1545,10 +1555,6 @@
       "name": "Bánh kem ba tầng",
       "description": "Bạn có định ăn hết nó không?",
       "condition": "Mua được bánh cưới từ máy bán hàng tự động"
-    },
-    "green_monster": {
-      "name": "Quái vật xanh lá",
-      "condition": "Tương tác với con quái vật màu xanh lá ở Foliage Estate"
     },
     "nail_lady": {
       "name": "Đinh lỏng",
@@ -2004,7 +2010,7 @@
       "condition": "Tìm những bàn tay trong Azure Garden, Forbidden Swamp, Foliage Estate, Dark Nexus, và Garden of Treachery",
       "checkbox": {
         "hands_azure": "Azure Garden",
-        "hands_foliage": "Foliage Estate",
+        "hands_foliage|hands_foliage_b": "Foliage Estate",
         "hands_forbidden": "Forbidden Swamp",
         "hands_dark": "Dark Nexus",
         "hands_treachery": "Garden of Treachery"
@@ -2560,7 +2566,7 @@
       "description": "Bạn đã chứng kiến rất nhiều để đến điểm này.",
       "condition": "Đến thăm những khu vực sau có phong cảnh từ xa của Twin Mountains: Foliage Estate (Overlook), Flying Fish World (Dream Scene), Mirror Room (Beach), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
-        "tw_foliage": "Foliage Estate (Overlook)",
+        "foliage_estate_scenery": "Foliage Estate (Overlook)",
         "tw_fish": "Flying Fish World (Dream Scene)",
         "tw_mirror": "Mirror Room (Beach)",
         "tw_bleak": "Bleak Future",
@@ -5053,7 +5059,7 @@
     "glitch_hell": {
       "name": "1111111111111111111111111111111111111111111111111111111",
       "description": "jaohfojahfuadhdiahljfhdajklhfjkalhfjlkahdsshjafghahhgfylehragbhagbdhjbfghjabfhjdsbgavhjfvbhajfghjlsadghbkhgkhkhkhkahsihlghfkahsgbfklhasdbfhklasbdfhbadshj",
-      "condition": "Đến Glitch Hell"
+      "condition": "Vào Glitch Hell"
     },
     "alto_2kki": {
       "name": "FM Flying Fish",
@@ -5063,37 +5069,37 @@
     "flower_lily_path": {
       "name": "Polychrome Morph",
       "description": "The soft and peaceful reality of the body.",
-      "condition": "Make the flower in the White Lily Path A of the Glitched Butterfly Sector react to the Child, Tissue, Teru Teru Bōzu, Grave and Rainbow effects, and to the use of the Fairy, Glasses, Eyeball Bomb, Invisible, Cake, Polygon, Railroad Crossing and Dice effects",
+      "condition": "Làm cho bông hoa ở White Lily Path A thuộc Glitched Butterfly Sector phản ứng với các hiệu ứng Trẻ em, Khăn giấy, Búp bê thời tiết, Mộ và Cầu vồng, và sử dụng hiệu ứng Tiểu tiên, Mắt kính, Bom cầu mắt, Tàng hình, Bánh ngọt, Đa giác, Tín hiệu đường sắt và Xúc xắc",
       "checkbox": {
-        "flower_lily_path_child": "Child",
-        "flower_lily_path_tissue": "Tissue",
-        "flower_lily_path_teru": "Teru Teru Bōzu",
-        "flower_lily_path_grave": "Grave",
-        "flower_lily_path_rainbow": "Rainbow",
-        "flower_lily_path_fairy": "Fairy",
-        "flower_lily_path_glasses": "Glasses",
-        "flower_lily_path_eye_bomb": "Eyeball Bomb",
-        "flower_lily_path_invisible": "Invisible",
-        "flower_lily_path_cake": "Cake",
-        "flower_lily_path_polygon": "Polygon",
-        "flower_lily_path_crossing": "Railroad Crossing",
-        "flower_lily_path_dice": "Dice"
+        "flower_lily_path_child": "Trẻ em",
+        "flower_lily_path_tissue": "Khăn giấy",
+        "flower_lily_path_teru": "Búp bê thời tiết",
+        "flower_lily_path_grave": "Mộ",
+        "flower_lily_path_rainbow": "Cầu vồng",
+        "flower_lily_path_fairy": "Tiểu tiên",
+        "flower_lily_path_glasses": "Mắt kính",
+        "flower_lily_path_eye_bomb": "Bom cầu mắt",
+        "flower_lily_path_invisible": "Tàng hình",
+        "flower_lily_path_cake": "Bánh ngọt",
+        "flower_lily_path_polygon": "Đa giác",
+        "flower_lily_path_crossing": "Tín hiệu đường sắt",
+        "flower_lily_path_dice": "Xúc xác"
       }
     },
     "bracken_plains_rave": {
       "name": "Bracken Dance",
       "description": "Gotta get green guys groovin'",
-      "condition": "See the Rave event in the Bracken Plains"
+      "condition": "Kích hoạt sự kiện Rave ở Bracken Plains"
     },
     "monster_jaw_cake": {
       "name": "Lonely Cake Girl",
-      "description": "She does sure feel lonely.",
-      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
+      "description": "Cô ấy đúng là có vẻ cô đơn thật.",
+      "condition": "Sử dụng hiệu ứng Bánh ngọt ở Monster's Jaw và xem cảnh ở đó"
     },
     "cake_fridge_virtual_city": {
-      "name": "Cướp bánh",
+      "name": "Kẻ trộm bánh",
       "description": "Cho cô ấy ăn bánh đi!",
-      "condition": "Lấy một miếng bánh trong tủ lạnh tại khu trò chơi ở Virtual City"
+      "condition": "Lấy một cái bánh trong tủ lạnh tại khu trò chơi ở Virtual City"
     },
     "umbrella_critter_village": {
       "name": "Trẻ lang thang",
@@ -5103,22 +5109,22 @@
     "picture_virtual_city": {
       "name": "Say Cheese!!",
       "description": "Fantastic! Cooler! Peace!",
-      "condition": "Use the photobooth and receive your picture in the Virtual City's arcade"
+      "condition": "Sử dụng bốt chụp ảnh và nhận bức ảnh tại khu trò chơi ở Virtual City"
     },
     "arcade_virtual_city": {
       "name": "Bunny Girl Paradise",
-      "description": "This game is addicting...",
-      "condition": "Visit the arcade in Virtual City"
+      "description": "Trò chơi này thực sự gây nghiện...",
+      "condition": "Đến khu trò chơi ở Virtual City"
     },
     "workshop_cipher_kbd": {
       "name": "Keyboard Maintenance Team",
       "description": "Especially the arrows need more repair",
-      "condition": "Visit the workshop in Cipher Keyboard"
+      "condition": "Đến khu xưởng ở Cipher Keyboard"
     },
     "mistaken_call_parking_grg": {
       "name": "Fraudulent Call",
       "description": "I think it's a pyramid scheme involving red lampposts",
-      "condition": "Visit the Mistaken Call Room in Parking Garage"
+      "condition": "Đến Mistaken Call Room ở Parking Garage"
     },
     "blackjack_manor": {
       "name": "Blackjack 21",
@@ -5127,7 +5133,7 @@
     },
     "tt_rose_church": {
       "name": "Quả trứng tối thượng",
-      "condition": "Nhận phông nền số 12 ở Rose Church trong {TIME} hoặc nhanh hơn trong chế độ Thử thách Hẹn giờ"
+      "condition": "Nhận phông nền 12 ở Rose Church trong {TIME} hoặc nhanh hơn trong chế độ Thử thách hẹn giờ"
     },
     "dragon_paradise": {
       "name": "Cetus",
@@ -5425,9 +5431,9 @@
       }
     },
     "tentacle_lamplit_stones": {
-      "name": "Always Near You",
-      "description": "Something familiar that always watches you.",
-      "condition": "Trigger the event that makes the Sierpinski Maze tentacle appears in Lamplit Stones"
+      "name": "Luôn luôn bên bạn",
+      "description": "Thứ gì đó thân thuộc luôn theo dõi bạn.",
+      "condition": "Kích hoạt sự kiện làm cho xúc tu ở Sierpinski Maze xuất hiện tại Lamplit Stones"
     },
     "kite_adabana_gardens": {
       "name": "Lost Kite",
@@ -6260,9 +6266,9 @@
       "condition": "Interact with the black hole in Legacy of Ruin"
     },
     "mask_storage_mask_tst_map": {
-      "name": "A Perfect End",
-      "description": "What could be a better reward after a journey like that",
-      "condition": "Equip the mask storage mask in TST MAP"
+      "name": "Kết thúc hoàn mỹ",
+      "description": "Còn phần thưởng nào tuyệt hơn sau hành trình đó chứ.",
+      "condition": "Hóa trang thành tủ chứa hóa trang tại TST MAP"
     },
     "museum_of_cur_connect": {
       "name": "Curious Museum",
@@ -6447,9 +6453,9 @@
       "condition": "Visit Cluster of Flowers"
     },
     "cliff_forlorn_beach_house": {
-      "name": "Strange Giant",
-      "description": "... was he waiting for you?",
-      "condition": "Reach the cliff area in Forlorn Beach House"
+      "name": "Người khổng lồ kì lạ",
+      "description": "... liệu nó có đang đợi bạn?",
+      "condition": "Đến vách đá ở Forlorn Beach House"
     },
     "carlos_salsa_desert": {
       "name": "Carlos the Nacho Cats",
@@ -6507,8 +6513,8 @@
       "condition": "Interact with the Cyborg Daughter in Windy Factory"
     },
     "tiled_canvas": {
-      "name": "Nostalgic Tiles 🎼",
-      "description": "About the memories of a beautiful melody and lights that flicker in this world🎵",
+      "name": "Nostalgic Tiles",
+      "description": "About the memories of a beautiful melody and lights that flicker in this world",
       "condition": "Đến Tiled Canvas"
     },
     "crimson_park": {
@@ -6540,6 +6546,88 @@
       "name": "King of the Spirits",
       "description": "He watches over them in peace and comfort.",
       "condition": "Equip the Fairy effect in front of the dragon in Spirit Capital"
+    },
+    "cat_floating_park": {
+      "name": "Itty Bitty Kitty",
+      "description": "Y'know like, nya!",
+      "condition": "Interact with the cat in Floating Park"
+    },
+    "serenade_girl_tricolor_room": {
+      "name": "Cherished Old Memory",
+      "description": "I hope we meet again, one day...",
+      "condition": "Interact with the girl in the Serenade sub-area of Tricolor Room while using the Child effect"
+    },
+    "blood_underground_base": {
+      "name": "Strange Drains",
+      "description": "What is this red stuff?",
+      "condition": "Find a stain of blood in Underground Base"
+    },
+    "silhouette_autumn_pastel_ruins": {
+      "name": "Black Figure",
+      "description": "Hello! Have you been here all along?",
+      "condition": "Reveal the black silhouette on the swing set in Autumn Pastel Plains"
+    },
+    "alien_world": {
+      "name": "Alien Rave",
+      "description": "I never thought aliens would sound so cute!",
+      "condition": "Visit Alien World"
+    },
+    "lush_cells": {
+      "name": "Forgotten Park",
+      "description": "At last, a moment of respite...",
+      "condition": "Visit Lush Cells"
+    },
+    "glitched_digits": {
+      "name": "Glitched Limbs",
+      "description": "Please proceed to the emergency exit.",
+      "condition": "Visit Glitched Digits"
+    },
+    "satellite_midnight_manor": {
+      "name": "Satelite of Serenity",
+      "description": "The moonlit lake seems mesmerizing...",
+      "condition": "Find the Manor's Satellite in Midnight Manor"
+    },
+    "robot_robotic_slaves_tunnel": {
+      "name": "TAKE ME WITH YOU",
+      "description": "Would you let it out?",
+      "condition": "Reveal the huge droid-like robot in Robotic Slaves Tunnel"
+    },
+    "opal_archives_tt": {
+      "name": "Bejeweled Alum",
+      "condition": "Start the Opal Archives' ballroom dance event in {TIME} or less in Time Trial Mode"
+    },
+    "moonlit_pier": {
+      "name": "Bathe in Moonlight",
+      "description": "Moonlight sleeps veiled, river flows silent",
+      "condition": "Visit Moonlit Pier"
+    },
+    "inverted_pitch_black_plateau": {
+      "name": "Void in my Heart",
+      "description": "You... found me...?",
+      "condition": "Equip the inverted Urotsuki mask where it can be found in Pitch Black Plateau"
+    },
+    "lemon_jelly_citrus_springs": {
+      "name": "Sour Girl",
+      "description": "Don't turn her into lemonade, please.",
+      "condition": "Find lemon jelly in Citrus Springs"
+    },
+    "snake_monolith_jungle": {
+      "name": "Serpent of the Jungle",
+      "description": "Will you trust in him?",
+      "condition": "Find the snake in Monolith Jungle"
+    },
+    "waiya_usugurai_wire": {
+      "name": "Waiyamichi",
+      "condition": "Interact with Waiyamichi in Usugurai Residence and Interconnected Wire World",
+      "checkbox": {
+        "waiya_usugurai": "Usugurai Residence",
+        "waiya_wire": "Interconnected Wire World"
+      }
+    },
+    "sub_research_center_screen": {
+      "name": "Artificial Friend",
+      "description": "I l0v3 l34rn1ng 4b0ut y0u!",
+      "condition": "Use effects to see all the reactions from the face on the screen in Subterranean Research Center"
     }
   },
   "unconscious": {
@@ -7463,6 +7551,49 @@
       "name": "Pink Star",
       "description": "Remember the sun is also a star!",
       "condition": "Interact with the star in Cosmic Woods"
+    },
+    "banana_apartment_towers": {
+      "name": "Sweet Companion",
+      "description": "It's peanut butter jelly time!",
+      "condition": "Interact with the banana in Apartment Towers"
+    },
+    "outline_girl_sandstone_resort": {
+      "name": "Mystique Resident",
+      "description": "Is this your room?",
+      "condition": "Find Outline Girl in Sandstone Resort"
+    },
+    "molly_moth_garden": {
+      "name": "Sage of the Dark Night",
+      "description": "I'm reading a book right now, could you please not bother me?",
+      "condition": "Interact with Molly in Moth Garden"
+    },
+    "stare_shattered_realm": {
+      "name": "Eyes on Me",
+      "description": "You just can't look away",
+      "condition": "Trigger The Stare event in Shattered Realm"
+    },
+    "sunrise_disintegrating_pillars": {
+      "name": "World's End Sunrise",
+      "description": "A glimmer of hope in a long-dead world",
+      "condition": "Trigger the Sunrise at the End of the World event in Disintegrating Pillars"
+    },
+    "soapy_baths_soap": {
+      "name": "*glub*",
+      "description": "It did not taste like strawberries...",
+      "condition": "Get the soap bar and soap water from a vending machine at Soapy Baths",
+      "checkbox": {
+        "soapy_baths_soap_1": "soap bar",
+        "soapy_baths_soap_2": "soap water"
+      }
+    },
+    "fall_forest": {
+      "name": "That Watching Eye",
+      "description": "It's already too late to undo what you've done.",
+      "condition": "Trigger the fall event in Forest"
+    },
+    "lottery_parlor": {
+      "name": "Shadow Minna Money Gang",
+      "condition": "Visit Lottery Parlor"
     }
   },
   "flow": {
@@ -8197,6 +8328,11 @@
       "name": "Greened Baldy",
       "description": "It'll grow back.",
       "condition": "Obtain the Bald effect. If you have already unlocked it, return where it can be found in Ice World."
+    },
+    "zapnef_glitch_world": {
+      "name": "ZApped into the Game",
+      "description": "plae ZApNeF is the beast, itsooki is good and bets in geaem play game p,.ls",
+      "condition": "Complete the fake ZApNeF level in Glitch World"
     }
   },
   "unevendream": {
@@ -8389,7 +8525,7 @@
     "totsu_x_ray": {
       "name": "Roentgen",
       "description": "Anything can be seen.",
-      "condition": "Take X-rays in the Kaomoji Mall"
+      "condition": "Take X-rays in the Hat Park"
     },
     "enamored_yellow": {
       "name": "Enamored",
@@ -8730,227 +8866,231 @@
     "door_smugglers_hideout": {
       "name": "I Gently Open the Door...",
       "condition": "Reach the room of the hanged man in Smugglers' Hideout"
+    },
+    "tv_roxane_japanese_area": {
+      "name": "Pipiru Piru Piru Pipiru Pi~",
+      "condition": "Turn on the TV in Roxane's House in the Japanese Area"
     }
   },
   "muma": {
     "unicorn_slayer": {
-      "name": "Unicorn Slayer",
-      "description": "Do it on a windy day and you might get a kite.",
-      "condition": "Defeat all of the Unicorns in the Unicorn Woods"
+      "name": "Dũng sĩ diệt kì lân",
+      "description": "Làm chuyện đó vào ngày gió và bạn có thể có được cánh diều.",
+      "condition": "Tiêu diệt tất cả kì lân ở Unicorn Woods"
     },
     "depressed_meal": {
-      "name": "Depressed Meal",
-      "description": "This one needs a hug....",
-      "condition": "Talk to the sad gingerbread man"
+      "name": "Bữa ăn trầm cảm",
+      "description": "Đồng chí này cần cái ôm....",
+      "condition": "Nói chuyện với người bánh gừng buồn bã"
     },
     "magic_trick": {
-      "name": "Magic Trick",
-      "description": "Voilà!",
-      "condition": "Pursue the Magic Box and find out what's inside"
+      "name": "Trò ảo thuật",
+      "description": "Úm ba la!",
+      "condition": "Truy tìm Magic Box và khám phá điều nó chứa đựng"
     },
     "platform_pro": {
-      "name": "Platforming Pro",
-      "description": "Quote would be proud.",
-      "condition": "Traverse the Cave Game without getting hit"
+      "name": "Cao thủ Platformer",
+      "description": "Quote sẽ tự hào lắm.",
+      "condition": "Băng qua Cave Game mà không bị mất máu"
     },
     "moon_bunny": {
       "name": "Mooninites",
-      "description": "A bunch of baby bunnies, send 'em to the moon.",
-      "condition": "Overcrowd the Moon with bunnies"
+      "description": "Một bầy thỏ con, đưa hết chúng lên mặt trăng.",
+      "condition": "Làm quá tải Moon bằng thỏ"
     },
     "puzzle_coin": {
       "name": "Puzzler",
-      "condition": "Grab the Puzzle Coin in the Puzzle Chamber"
+      "condition": "Lấy Puzzle Coin ở Puzzle Chamber"
     },
     "escape_chicago": {
       "name": "Escape from the City",
       "description": "Follow me, set me free, trust me and we will escape from the city.",
-      "condition": "Successfully escape from Chicago by entering the Occult Basement"
+      "condition": "Thành công chạy trốn khỏi Chicago bằng cách đi vào Occult Basement"
     },
     "empty_museum": {
       "name": "Museum",
-      "description": "Now all that's left is to fill it.",
-      "condition": "Enter the empty Museum"
+      "description": "Giờ thì chỉ cần lấp đầy nó.",
+      "condition": "Vào Empty Museum"
     },
     "crystal_reflection": {
-      "name": "Reflection",
-      "description": "The crystal stares back.",
-      "condition": "Gaze at Muma's Reflection in Blue Flow"
+      "name": "Phản chiếu",
+      "description": "Khối pha lê nhìn lại.",
+      "condition": "Ngắm nhìn hình ảnh phản chiếu của Muma ở Blue Flow"
     },
     "new_enemy": {
-      "name": "A New Enemy",
-      "description": "A challenger approaches.",
-      "condition": "Incur the wrath of the Black Rabbit in Realm of the Orb"
+      "name": "Kẻ thù mới",
+      "description": "Một đối thủ xuất hiện.",
+      "condition": "Đối mặt với Black Rabbit tại Realm of the Orb"
     },
     "worst_thief": {
       "name": "Worst Thief EVER.",
-      "condition": "Overflow the \"Caught\" counter in Jail"
+      "condition": "Làm tràn số lần \"Caught\" ở Jail"
     },
     "true_sunset": {
-      "name": "True Sunset",
-      "description": "Who do I trust now?",
-      "condition": "Witness the True Sunset in Sunset Cliff"
+      "name": "Hoàng hôn đích thực",
+      "description": "Tôi nên tin ai bây giờ?",
+      "condition": "Chứng kiến True Sunset tại Sunset Cliff"
     },
     "erased_muma": {
-      "name": "Kill the Erased Muma",
-      "description": "You helped Muma find a definitive end.",
-      "condition": "You helped Muma find a definitive end."
+      "name": "Giết chết Muma bị xóa",
+      "description": "Bạn đã giúp Muma có được một kết thúc dứt khoát.",
+      "condition": "Hoàn thành Erased Ending."
     },
     "experiment_tubes": {
-      "name": "Experiment",
-      "description": "Who are they?",
-      "condition": "Fill up all of the Test Tubes in the Secret Lab"
+      "name": "Vật thí nghiệm",
+      "description": "Họ là ai vậy?",
+      "condition": "Làm đầy tất cả Ống nghiệm tại Secret Lab"
     },
     "sleep_paralysis_mare": {
       "name": "Mare",
-      "description": "\"Sleep paralysis is a state, during waking up or falling asleep, in which one is conscious but is unable to move or speak.\"",
-      "condition": "Sit on the boy's chest in his bedroom"
+      "description": "\"Bóng đè là hiện tượng xảy ra ở người trong quá trình thức dậy hoặc rơi vào giấc ngủ, lúc này não bộ tỉnh táo nhưng cơ thể không thể cử động.\"",
+      "condition": "Ngồi lên ngực cậu bé ở phòng ngủ của cậu"
     },
     "rainbow_maze": {
-      "name": "Maze Maestro",
-      "condition": "Reach the final floor of the R-Maze"
+      "name": "Thiên tài mê cung",
+      "condition": "Tới tầng cuối cùng ở R-Maze"
     },
     "blossoming_view": {
-      "name": "Blossoming View",
-      "description": "What a beautiful wedding!",
-      "condition": "Encounter the Bunny Wedding in Yin Yang Lake"
+      "name": "Cảnh vật bung nở",
+      "description": "Thật là một đám cưới đẹp đẽ!",
+      "condition": "Chứng kiến Đám cưới Thỏ ở Yin Yang Lake"
     },
     "fake_rainbow": {
-      "name": "Fake Rainbow",
-      "description": "There isn't any sunshine near this rainbow.",
-      "condition": "Interact with a Fake Memory in Above the Clouds"
+      "name": "Cầu vồng giả tạo",
+      "description": "Không có ánh nắng nào gần cái cầu vồng này cả.",
+      "condition": "Tương tác với Fake Memory tại Above the Clouds"
     },
     "owl_chorus": {
-      "name": "The Owl Chorus",
-      "description": "Let's sing! Let's sing!",
-      "condition": "Let all the owls of the Owl Swamp sing"
+      "name": "Giai điệu của Cú",
+      "description": "Hát lên nào! Hót lên nào!",
+      "condition": "Làm cho tất cả các con cú ở Owl Swamp hát"
     },
     "pool_penguin": {
-      "name": "Pool Penguin",
+      "name": "Chim cánh cụt bể bơi",
       "description": "A little penguin happily moistening in the Pool... Noot!",
-      "condition": "Interact with the penguin in the floater in Swimming Pool"
+      "condition": "Tương tác với con chim cánh cụt trong cái phao ở Swimming Pool"
     },
     "ok_drinks": {
-      "name": "Best Drinks",
-      "description": "Want something to drink? OK will provide you with the best carbonated drinks",
-      "condition": "Check out two drink ads on the streets of Chicago"
+      "name": "Đồ uống tuyệt vời nhất",
+      "description": "Khát nước? OK sẽ cung cấp cho bạn đồ uống có ga tuyệt vời nhất",
+      "condition": "Tìm thấy 2 biển quảng cáo đồ uống trên con phố ở Chicago"
     },
     "best_thief": {
       "name": "Best Thief EVER!",
-      "description": "A big heist always needs a great show off!",
-      "condition": "Have the Diamond Memory unlocked and go to the Chicago Map"
+      "description": "Một phi vụ cướp lớn luôn cần một màn phô trương đẳng cấp!",
+      "condition": "Sở hữu Diamond Memory và đi tới Chicago"
     },
     "rockin_settlement": {
       "name": "Rockin'",
-      "description": "I wouldn't make her mad if I were you",
-      "condition": "Re-enter Kema's house after getting the memory"
+      "description": "Nếu là tôi thì tôi sẽ không chọc giận cô ấy đâu",
+      "condition": "Quay lại nhà của Kema sau khi lấy được Memory"
     },
     "faraway_place_return": {
-      "name": "Familiar Place",
-      "condition": "Enter the Memory Room door in Faraway Place"
+      "name": "Nơi thân quen",
+      "condition": "Vào cửa Memory Room ở Faraway Place"
     },
     "glitch_area_proj": {
       "name": "ERROR404",
-      "description": "Your pc needs to restart; please hold shift to return.",
-      "condition": "Go to the Glitch Grid"
+      "description": "pc của bạn cần phải khởi động lại; vui lòng giữ phím shift để trở về.",
+      "condition": "Đi đến Glitch Grid"
     },
     "flower_field": {
       "name": "Happy!",
-      "description": "Movement speed increased and monster spawns- ...sorry, wrong game.",
-      "condition": "Visit the Flower Field"
+      "description": "Tăng tốc độ di chuyển và quái vật ít- ...xin lỗi, nhầm game.",
+      "condition": "Tham quan Flower Field"
     },
     "rabbit_proj": {
-      "name": "Electric Shock!!",
-      "description": "The cables of the projector tingled us!",
-      "condition": "Electrify the rabbit in the Projector Room"
+      "name": "Điện giật!!",
+      "description": "Dây cáp của máy chiếu làm chúng tôi ngứa ran lên!",
+      "condition": "Làm giật điện con thỏ ở Projector Room"
     },
     "pink_rabbit_galaxy_b": {
-      "name": "Schrödinger's Rabbit",
-      "description": "Maybe try a bug net next time.",
-      "condition": "Try to reach the pink rabbit in Block Galaxy B in both positions"
+      "name": "Con thỏ của Schrödinger",
+      "description": "Lần sau thử dùng lưới bắt bọ đi.",
+      "condition": "Thử tới con thỏ hồng ở Block Galaxy B ở 2 vị trí"
     },
     "red_ladder_galaxy_b": {
-      "name": "Red Ladder",
-      "description": "YOU CAN DO THAT???",
-      "condition": "Push down the red ladder in Block Galaxy B"
+      "name": "Thang đỏ",
+      "description": "BẠN CÓ THỂ LÀM ĐƯỢC THẾ Ư???",
+      "condition": "Đẩy thang đỏ xuống Block Galaxy B"
     },
     "soft_sunset": {
-      "name": "Midsummer Sinking Sun",
-      "description": "Watching the vast, summer skies with a bunny friend, different colors melting into each other as the sun sinks deeper...",
-      "condition": "Visit Sunset Cliff"
+      "name": "Hạ dương lặn bóng",
+      "description": "Ngắm nhìn bầu trời mùa hè rộng lớn cùng với người bạn thỏ, những mảng màu hòa quyện vào nhau khi mặt trời dần chìm sâu hơn...",
+      "condition": "Đi tới Sunset Cliff"
     },
     "fish_undersea_expense": {
-      "name": "Fish Ride",
-      "description": "So that's what a sea horse is!",
-      "condition": "Feed the fish in Undersea Expanse"
+      "name": "Cưỡi cá",
+      "description": "Vậy ra đây là cá ngựa!",
+      "condition": "Cho con cá ăn ở Undersea Expanse"
     },
     "satiated_rabbit": {
-      "name": "Thanks for the Carrot!",
-      "description": "Next time bring more!",
-      "condition": "Feed the rabbit in the Isle of Seasons"
+      "name": "Cảm ơn vì miếng cà rốt!",
+      "description": "lần sau mang thêm nhé!",
+      "condition": "Cho con thỏ ăn ở Isle of Seasons"
     },
     "complete_museum": {
       "name": "The Last Steps",
-      "description": "No longer empty",
-      "condition": "Complete the collection of the Empty Museum and see its last masterpiece"
+      "description": "Không còn trống trải",
+      "condition": "Hoàn thành bộ sưu tập ở Empty Museum và nhìn tuyệt phẩm cuối cùng"
     },
     "lapifiere_mono_building": {
-      "name": "Black Truth",
-      "description": "Shadows of rabbits",
-      "condition": "See the Nurse Rabbit's shadow in Monochrome Building"
+      "name": "Sự thật đen tối",
+      "description": "Bóng tối của thỏ",
+      "condition": "Chứng kiến bóng của Y tá thỏ tại Monochrome Building"
     },
     "realm_of_the_orb_snake": {
-      "name": "Provocation",
-      "description": "You only have yourself to blame",
-      "condition": "Get attacked by the serpents in Realm of the Orb and see what follows"
+      "name": "Khiêu khích",
+      "description": "Chỉ có thể tự trách mình thôi",
+      "condition": "Bị rắn tấn công tại Realm of the Orb và chứng kiến những gì xảy ra sau đó"
     },
     "muma_glitch": {
-      "name": "Fatal Error",
-      "description": "You shouldn't be here",
-      "condition": "Find a way to transport yourself to Glitch"
+      "name": "Lỗi nghiêm trọng",
+      "description": "Bạn không nên ở đây",
+      "condition": "Tìm cách để dịch chuyển đến Glitch"
     },
     "r_space_station_earth": {
-      "name": "Perigee",
-      "description": "I can see my house from here.",
-      "condition": "See the Earth from Reverse Space Station"
+      "name": "Điểm cận địa",
+      "description": "Tôi có thể nhìn thấy nhà tôi từ đây.",
+      "condition": "Nhìn thấy Trái Đất từ Reverse Space Station"
     },
     "pink_block_sea": {
-      "name": "Pink Sea Coast",
-      "description": "A pastel coastline.",
-      "condition": "Visit Pink Block Sea"
+      "name": "Bờ biển hồng",
+      "description": "Đường bờ biển hồng phấn.",
+      "condition": "Đến Pink Block Sea"
     },
     "pink_snowscape_globe": {
-      "name": "Soft Pink Blizzard",
-      "description": "This memory tastes like strawberry popsicle.",
-      "condition": "Obtain the Snowglobe memory. If you have already unlocked it, return to Pink Snowscape."
+      "name": "Bão tuyết hồng dâu",
+      "description": "Kí ức này có vị giống như kem que dâu.",
+      "condition": "Sở hữu Snowglobe Memory. Nếu bạn đã sở hữu nó, trở lại Pink Snowscape."
     },
     "jarred_rose": {
-      "name": "Unique Rose",
-      "description": "It's the time you spent on your rose that makes your rose so important.",
-      "condition": "Visit Jarred Rose"
+      "name": "Đóa hồng độc nhất",
+      "description": "Chính thời gian cậu mất cho đóa hồng của mình đã làm cho đóa hồng ấy trở nên quan trọng đến thế.",
+      "condition": "Tới Jarred Rose"
     },
     "chambre_de_muma": {
       "name": "Muma's Dream Room",
-      "condition": "Visit the Bedroom"
+      "condition": "Tới Bedroom"
     },
     "sands_of_time_sands": {
-      "name": "Whiling Away the Sandy Seconds",
-      "condition": "Obtain the Hourglass memory. If you have already unlocked it, return to Sands of Time."
+      "name": "Phí hoài dòng cát rơi",
+      "condition": "Sở hữu Hourglass Memory. Nếu bạn đã sở hữu nó, quay trở lại Sands of Time."
     },
     "pink_snowscape": {
-      "name": "The Color of Winter",
-      "description": "It is snowing on a gentle morning...",
-      "condition": "Visit Pink Snowscape"
+      "name": "Màu của mùa đông",
+      "description": "Đang mưa tuyết trong một buổi sáng thư thái...",
+      "condition": "Đi tới Pink Snowscape"
     },
     "bunny_first_steps": {
-      "name": "Muma and the Rabbits",
-      "description": "Would you like to be friends with me?",
-      "condition": "Lift one of the rabbits in First Steps"
+      "name": "Muma và những chú thỏ",
+      "description": "Làm bạn với tôi được không?",
+      "condition": "Bế một chú thỏ ở First Steps"
     },
     "maison_de_muma": {
       "name": "Maison Blanche",
-      "description": "Who would live all the way out here?",
-      "condition": "Reach House"
+      "description": "Ai lại sống tận ngoài đây cơ chứ?",
+      "condition": "Đi đến House"
     }
   },
   "genie": {
@@ -9252,8 +9392,8 @@
     },
     "scarecrow_doll_void": {
       "name": "Alienation",
-      "description": "You don’t belong here.",
-      "condition": "Reach Scarecrow Doll Void"
+      "description": "Bạn không thuộc về đây.",
+      "condition": "Tới Scarecrow Doll Void"
     },
     "old_arcade_chaser": {
       "name": "Hey! This is my arcade!",
@@ -9814,6 +9954,11 @@
       "name": "Unwanted Memories",
       "description": "Deep within a forest of scarlet trees was a tall monster. Its eyes glowed with a color similar to that of blood, unwanted memories arose in me.",
       "condition": "Obtain the Wendigo effect. If you have already unlocked it, return where it can be found in Scarlet World."
+    },
+    "death_row_ventilation_passage": {
+      "name": "The Birth of the Ouroboros",
+      "description": "Deep within the vent, an embryonic creature pulsed inside living flesh. Its very sight tore at the soul.",
+      "condition": "Reach Death Row from Ventilation Passage"
     }
   },
   "tsushin": {
@@ -10094,6 +10239,20 @@
       "name": "Doll's Dress-Up",
       "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
       "condition": "Combine the Goth Dress and Doll effects"
+    },
+    "rainy_islands_nini_detective": {
+      "name": "Her Face",
+      "condition": "Use the Detective effect next to Nini in Rainy Islands' house"
+    },
+    "rainy_islands_nini": {
+      "name": "Nini!",
+      "description": "She's literally a cowgirl!",
+      "condition": "Reveal Nini's normal, secret and true versions in Rainy Islands' house",
+      "checkbox": {
+        "rainy_islands_nini_normal": "normal",
+        "rainy_islands_nini_detective": "secret",
+        "rainy_islands_nini_vboa": "true"
+      }
     }
   },
   "nostalgic": {
@@ -10308,6 +10467,16 @@
       "name": "Just Visiting!",
       "description": "It's actually not so bad in here! Just don't stand in the bottom-right corner.",
       "condition": "Interact with the lone prisoner in Prison Chambers"
+    },
+    "curse_ice_temple": {
+      "name": "Break",
+      "description": "You are already dead.",
+      "condition": "Trigger the Ice Voodoo Curse event in Ice Temple"
+    },
+    "anchor_effect": {
+      "name": "Beyond the Horizon",
+      "description": "Captain Shimitsuki is here!",
+      "condition": "Obtain the Anchor effect. If you have already unlocked it, return where it can be found in Streetlamp World."
     }
   },
   "oneshot": {
@@ -10441,8 +10610,8 @@
     },
     "qiu_qin_zabu_un": {
       "name": "Unpredictable Connection",
-      "description": "How did she got here?! No, the right question should be why am I here?!",
-      "condition": "Find Qiu Qin and Zabu"
+      "description": "Làm thế nào mà cô ấy đến được đây?! Không, câu hỏi chính xác phải là tại sao tôi lại ở đây?!",
+      "condition": "Tìm Qiu Qin và Zabu"
     },
     "light_invisible_ink": {
       "name": "No More Light",
@@ -10455,9 +10624,9 @@
       "condition": "Chase the mysterious silhouette until its last destination in the Dark Cave"
     },
     "two_dots_l": {
-      "name": "Your Best Friend",
+      "name": "Người bạn tuyệt vời nhất",
       "description": "It looks a little different",
-      "condition": "Become friend with :l"
+      "condition": "Trở thành bạn thân với :l"
     },
     "kite_grassland": {
       "name": "The Breeze and the Kite",
