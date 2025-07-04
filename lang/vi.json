@@ -452,9 +452,9 @@
       "condition": "Kích hoạt sự kiện Crick in the Neck"
     },
     "stoplight_effect": {
-      "name": "A Normal Corpse",
-      "description": "How long has this been here...?",
-      "condition": "Obtain the Stoplight effect. If you have already unlocked it, return to the end of the Road."
+      "name": "Xác thường",
+      "description": "Nó đã ở đây trong bao lâu rồi...?",
+      "condition": "Sở hữu hiệu ứng Stoplight. Nếu bạn đã sở hữu, quay trở lại phía cuối Road."
     },
     "fc_completionist": {
       "name": "So So Retro",
@@ -507,9 +507,9 @@
       "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
     },
     "staircase_nikki": {
-      "name": "Nightmarish Descent",
-      "description": "Did you really lie on all those beds to get this? Weird",
-      "condition": "Reach Staircase of Hands from Madotsuki's Dream Room, Block World, Snow World, Candle World, and Number World",
+      "name": "Ác mộng giáng thế",
+      "description": "Bạn thực sự nằm trên tất cả đống giường để tới đây ư? Thật kì cục",
+      "condition": "Tới Staircase of Hands từ Madotsuki's Dream Room, Block World, Snow World, Candle World, và Number World",
       "checkbox": {
         "staircase_hands_1": "Madotsuki's Dream Room",
         "staircase_hands_2": "Block World",
@@ -6769,23 +6769,23 @@
       "condition": "See the deity in Olympus Ruins"
     },
     "chainsaw_tv_tvland": {
-      "name": "TURN IT OFF!",
-      "description": "Television and violence don't mix well...",
-      "condition": "Attempt to chainsaw the TV creature in TVLand"
+      "name": "TẮT NÓ ĐI!",
+      "description": "Ti vi và bạo lực không đi đôi hợp với nhay...",
+      "condition": "Thử cưa sinh vật TV ở TVLand"
     },
     "maze_the_desktop": {
-      "name": "Inside My Computer",
+      "name": "Trong máy tính của tôi",
       "description": "Walking out and about in my desktop...",
-      "condition": "Visit the maze area of The Desktop"
+      "condition": "Tới khu vực mê cung ở The Desktop"
     },
     "creature_shallow_pathways": {
       "name": "Straw-san",
-      "condition": "See the drinking creature in Shallow Pathways"
+      "condition": "Tìm thấy sinh vật đang uống nước ở Shallow Pathways"
     },
     "spaceship_pollution_district": {
-      "name": "Spaceship Viewing Area",
-      "description": "Woah! What a beautiful scenery!",
-      "condition": "Reach the Spaceship Viewing area in Pollution District"
+      "name": "Khu vực khám phá ở tàu vũ trụ",
+      "description": "Woah! Thật là một khung cảnh tuyệt đẹp!",
+      "condition": "Đi tới Spaceship Viewing area ở Pollution District"
     },
     "dendra_crimson_park": {
       "name": "Sprouted Beauty",
@@ -7706,9 +7706,9 @@
       "condition": "Equip the Youth eidolon in Alphabet City"
     },
     "hla_still_alive": {
-      "name": "Vows of Devotion",
-      "description": "Blinded by hatred, drowning in love.",
-      "condition": "Survive for 5 minutes in Hostile Love Abyss at night. If you have previously reached this time, return to Hostile Love Abyss."
+      "name": "Lời thề hiến dâng",
+      "description": "Mù quáng trong hận thù, đắm đuối trong tình yêu.",
+      "condition": "Sống sót trong 5 phút ở Hostile Love Abyss lúc ban đêm. Nếu bạn đã đạt mốc thời gian đấy trước đó, trở lại Hostile Love Abyss."
     },
     "star_cosmic_woods": {
       "name": "Pink Star",
@@ -8016,17 +8016,17 @@
     "shinsoku": {
       "name": "Shinsoku Neko: Standard Edition",
       "description": "The start of the journey!",
-      "condition": "Score 1000 points in Shinsoku Neko"
+      "condition": "Đạt 1000 điểm ở Shinsoku Neko"
     },
     "shinsoku_gold": {
       "name": "Shinsoku Neko: True Shinsoku Neko Edition",
       "description": "\"They were all caught. The final tap was an exclamation mark on everything that had led to this point. I released my hands from the keyboard, and both me and my cat were finally free.\"",
-      "condition": "Score 999999 points in Shinsoku Neko"
+      "condition": "Đạt 999999 points ở Shinsoku Neko"
     },
     "shinsoku_alt": {
       "name": "Shinsoku Neko: Master Quest Edition",
       "description": "You're getting good at this!",
-      "condition": "Score 1000 points in Shinsoku Neko by hitting a seahorse without getting hit"
+      "condition": "Đạt 1000 points ở Shinsoku Neko bằng cách đánh trúng con cá ngựa mà không mất máu"
     },
     "cat_rainbow_maze": {
       "name": "Rusty Cat",
@@ -9381,41 +9381,41 @@
       "condition": "Đi đến House"
     },
     "muma_fric_in_rich": {
-      "name": "Memory? Not Needed!",
-      "description": "All the coins in the world!",
-      "condition": "Collect all of the coins without collecting any memory, then read the text in First Steps"
+      "name": "Kí ức ư? Chả cần kí ức!",
+      "description": "Tất cả những đồng xu trên thế giới!",
+      "condition": "Thu thập tất cả các coins mà không thu thập bất kì Memory nào, sau đó đọc dòng chữ ở First Steps"
     },
     "star_ride_muma": {
-      "name": "Starry Dream",
-      "description": "It feels so real...",
-      "condition": "Trigger the Star Ride event on the balcony of Bedroom"
+      "name": "Giấc mơ đầy sao",
+      "description": "Cảm giác thật quá...",
+      "condition": "Kích hoạt sự kiện Star Ride ở ban công Bedroom"
     },
     "rabbit_blue_flow": {
       "name": "Bunwind",
-      "description": "So comfy...",
-      "condition": "See a rabbit on the lounge chair in Blue Flow"
+      "description": "Thật thoải mái...",
+      "condition": "Nhìn thấy con thỏ trên cái ghế ở Blue Flow"
     }
   },
   "genie": {
     "not_scary": {
-      "name": "Not So Scary",
-      "description": "He's not so bad once you get to know him!",
-      "condition": "Find Slenderman"
+      "name": "Hoàn toàn không đáng sợ",
+      "description": "Anh ấy thực sự không tệ một khi đã hiểu!",
+      "condition": "Tìm Slenderman"
     },
     "hide_seekg": {
-      "name": "Hide-and-Seek",
-      "description": "Try not to get caught...",
-      "condition": "Successfully clear the Stealth Section in Hiding Place"
+      "name": "Trốn tìm",
+      "description": "Thử không bị bắt đi...",
+      "condition": "Hoàn thành Stealth Section ở Hiding Place"
     },
     "hello_there": {
-      "name": "Hello There",
-      "description": "Hello little guy, where are you from?",
-      "condition": "Meet Zabu"
+      "name": "Chào đằng đó",
+      "description": "Chào anh bạn nhỏ, bạn từ đâu đến vậy?",
+      "condition": "Gặp Zabu"
     },
     "moment_clarity": {
       "name": "A Moment of Clarity",
-      "description": "Seen through a gap in the fence.",
-      "condition": "Visit the Golden Gate in Static World"
+      "description": "Nhìn qua khoảng trống ở bờ rào.",
+      "condition": "Đến thăm Golden Gate ở Static World"
     },
     "blood_abyss": {
       "name": "Blood of the Abyss",
